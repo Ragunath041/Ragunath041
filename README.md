@@ -116,18 +116,7 @@ Vehicle rental platform with booking & management features.
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ragunath041&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragunath041&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ragunath041&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ### 🐍 Contribution Snake
 
