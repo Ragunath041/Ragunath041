@@ -14,12 +14,10 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Computer Science & Business Systems (2025)
 - 💼 Software / Flutter Developer — building production apps with **200+ active users**
 - 🔐 Built an on-device face-recognition attendance system (MobileFaceNet + Google ML Kit + AWS S3)
 - ☁️ Comfortable across the stack: Flutter frontend, Python backend, AWS cloud infra
 - 🌱 Currently sharpening DSA & system design for interviews
-- ⚡ Fun fact: I like turning "boring backend problems" into clean, working products
 
 ---
 
