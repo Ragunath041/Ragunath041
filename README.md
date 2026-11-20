@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 💼 Software / Flutter Developer — building production apps with **200+ active users**
+- 💼 Software / Flutter Developer — building production apps with **500+ active users**
 - 🔐 Built an on-device face-recognition attendance system (MobileFaceNet + Google ML Kit + AWS S3)
 - ☁️ Comfortable across the stack: Flutter frontend, Python backend, AWS cloud infra
 - 🌱 Currently sharpening DSA & system design for interviews
